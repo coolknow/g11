@@ -29,6 +29,7 @@
 - 未使用的优惠：客户已取消贷款，但在流程的不同阶段。
 
 ### 数据洞察
+相关链接 [EDA分析](https://www.kaggle.com/code/amritachatterjee09/eda-bank-loan-default-risk-analysis)。
 
 ##### 申请人是否成为还款人的决定性因素：
 - NAME_EDUCATION_TYPE：学历的默认值较少。
